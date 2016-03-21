@@ -1,4 +1,6 @@
-# Dispatch optimization
+## Dependencies
 
-- [MapBox example](https://www.mapbox.com/blog/mapbox-courier/)
-- [flask-redis](https://github.com/underyx/flask-redis)
+Ongoing.
+
+- [redigo](https://github.com/garyburd/redigo)
+- [gorilla/websocket](https://github.com/gorilla/websocket)
